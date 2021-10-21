@@ -1,8 +1,8 @@
 # Project 3 - Twitter
 
-## Part 1
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Twitter is a basic twitter app to read your tweets.
+## Part 1
 
 Time spent: 5 hours spent in total
 
