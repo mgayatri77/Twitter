@@ -27,7 +27,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://submissions.us-east-1.linodeobjects.com/ios_university/VGhRr0jn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Part 1
+## Part 2
 
 Time spent: 3 hours spent in total
 
